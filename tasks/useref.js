@@ -173,7 +173,7 @@ module.exports = function (grunt) {
         grunt.log.subhead("beginning concatBlocks " + name);
 
         // temp target is for data storag and is not actionable
-        if ('temp' === name) {
+        if ('root' === name) {
             return;
         }
 

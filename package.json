@@ -2,7 +2,7 @@
   "name": "grunt-concat-blocks",
   "title": "Grunt Concat Blocks",
   "description": "Use build blocks to perform file concatenation.",
-  "version": "0.0.16",
+  "version": "0.0.1",
   "homepage": "https://github.com/Grievoushead/grunt-concat-blocks",
   "author": {
     "name": "Sergey Kozachenko",
