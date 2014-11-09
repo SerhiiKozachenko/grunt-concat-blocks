@@ -3,7 +3,7 @@ grunt-concat-blocks
 
 ## Description
 
-Use build blocks to do concatenation:
+Use build blocks to do concatenation in html, jade, razor or any other files:
 
 Utilize build blocks in your html to indicate the files to be concatenated. This task will parse the build
 blocks in your html, and it will schedule the concatenation of the desired files by dynamically updating the `concat` task and then run it.
@@ -92,7 +92,7 @@ grunt.loadNpmTasks('grunt-concat-blocks');
 
 If you use `grunt-concat-blocks` you can ommit using `loadNpmTask` for the 'grunt-contrib-concat' plugin:
 
-`grunt-concat-blocks` will load the above plugins for you.
+`grunt-concat-blocks` will load the above plugin for you.
 
 ---
 
